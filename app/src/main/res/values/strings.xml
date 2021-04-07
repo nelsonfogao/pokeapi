@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">pokeapi</string>
+    <string name="facebook_app_id">825742744952687</string>
+    <string name="fb_login_protocol_scheme">fb825742744952687</string>
+
+</resources>

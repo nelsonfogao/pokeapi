@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034185007545",
+    "project_id": "pokeapi-nelson",
+    "storage_bucket": "pokeapi-nelson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034185007545:android:d30166f5a7fc4bc994d668",
+        "android_client_info": {
+          "package_name": "com.project.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034185007545-1oiotaa0g9iiad5ksb4kk1b5s1hj9pe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX6FAoNp_KdGdgwVP1xEjDTbBNjd2i37s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034185007545-1oiotaa0g9iiad5ksb4kk1b5s1hj9pe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
